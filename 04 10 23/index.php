@@ -20,4 +20,5 @@
 <!--
 Fontes
 https://getbootstrap.com/docs/5.3/forms/input-group/#multiple-inputs
+https://www.digitalocean.com/community/tutorials/how-to-work-with-numbers-in-php
 -->
