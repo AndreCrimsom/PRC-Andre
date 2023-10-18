@@ -1,5 +1,6 @@
 Esses exemplos estão cheios de más práticas.
 É preferivel campos diferentes para cada dado.
+Classes são criadas com letra maiuscula "Carro.php" e com um arquivo diferente para cada.
 
 CLASSES
     classe_cadeira
@@ -53,3 +54,4 @@ OBJETOS
 
 A partir de agora pode-se criar diversas cadeiras com valores diferentes de classes para os objetos.
 Objeto é uma instancia da classe. Objeto roda na memoria mas não existe arquivo para rodar no disco.
+Caracteristica = Atributo. Ação = Método
