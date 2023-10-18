@@ -1,0 +1,29 @@
+CLASSES
+    Cadeira
+        Cor
+        Material_assento
+        Material_encosto
+        Medidas
+        Função
+        Formato_assento
+        Formato_encosto
+
+OBJETOS
+    Cadeira 1
+        Cor
+            Branco
+        Material_assento
+            Madeira
+        Material_encosto
+            Madeira
+        Medidas
+            80x90x40
+        Função
+            Sentar
+        Formato_assento
+            Retangular
+        Formato_encosto
+            Quadrado
+
+A partir de agora pode-se criar diversas cadeiras com valores diferentes de classes para os objetos.
+Objeto é uma instancia da classe. Objeto roda na memoria mas não existe arquivo para rodar no disco.
