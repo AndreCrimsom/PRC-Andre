@@ -1,5 +1,8 @@
+Esses exemplos estão cheios de más práticas.
+É preferivel campos diferentes para cada dado.
+
 CLASSES
-    Cadeira
+    classe_cadeira
         Cor
         Material_assento
         Material_encosto
@@ -7,6 +10,20 @@ CLASSES
         Função
         Formato_assento
         Formato_encosto
+    classe_carro
+        Modelo
+        Fabricação
+        Cambio
+        Motor
+        Combustivel
+        Estado_Cor
+        Estado_Ligado
+
+        Ligar
+        Desligar
+        Acelerar
+        Freiar
+        Trocar Marcha
 
 OBJETOS
     Cadeira 1
@@ -24,6 +41,15 @@ OBJETOS
             Retangular
         Formato_encosto
             Quadrado
+    Carro 1
+        Cor
+            Preto
+        Modelo
+            Murciélago
+        Fabricação
+        Cambio
+        Motor
+        Combustivel
 
 A partir de agora pode-se criar diversas cadeiras com valores diferentes de classes para os objetos.
 Objeto é uma instancia da classe. Objeto roda na memoria mas não existe arquivo para rodar no disco.
